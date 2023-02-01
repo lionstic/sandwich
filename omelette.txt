@@ -6,4 +6,3 @@ poivron
 pate
 paprika
 poivre
-oignon
